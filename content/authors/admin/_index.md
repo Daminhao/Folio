@@ -1,7 +1,7 @@
 ---
 title: Danilo Pereira de Oliveira
 role: Formando em engenharia de pesca / Graduating in Fisheries Engineering
-avatar_filename: image20.png
+avatar_filename: design-sem-nome-1-.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
